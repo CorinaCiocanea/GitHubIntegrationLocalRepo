@@ -9,7 +9,7 @@
                     <lastUpdated value="2015-04-02T14:21:09.718+02:00"/>
                 </meta>
                 <url value="http://hl7.no/fhir/StructureDefinition/acronym"/>
-                <version value="0.5"/>
+                <version value="1.5"/>
                 <name value="OrganizationAcronym"/>
                 <display value="Organization Acronym"/>
                 <publisher value="HL7 Norway"/>
