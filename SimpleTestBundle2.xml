@@ -15,7 +15,7 @@
                 <publisher value="HL7 Norway"/>
                 <description value="Represents the short (acronym) name for an organization"/>
                 <requirements
-                    value="The ability to add extensions in a structured way is what keeps FHIR resources simple."/>
+                    value="The ability to simple test bundle add extensions in a structured way is what keeps FHIR resources simple."/>
                 <status value="active"/>
                 <date value="2015-04-02T14:21:09+02:00"/>
                 <mapping>
