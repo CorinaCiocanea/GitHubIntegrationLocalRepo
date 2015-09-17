@@ -19,7 +19,7 @@
                     Codes from this valueset are both kinds of practitioners (privatpraktiserende spesialister, fastlege) or 
                     kinds of organizations the practitioner works for (kommunale tjenester, psykisk helsevern)." />
                 <status value="draft" />
-                <date value="2015-06-01"/>
+                <date value="2015-07-01"/>
                 <define>
                     <system value="http://hl7.no/fhir/rekvirenttype"/>
                     <caseSensitive value="true" />
