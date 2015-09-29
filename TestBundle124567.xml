@@ -4,10 +4,10 @@
     <entry>
         <resource>
             <ValueSet xmlns="http://hl7.org/fhir">
-                <id value="rekvirenttype" />
-                <url value="http://hl7.no/fhir/ValueSet/rekvirenttype" />
-                <version value="0.1"/>
-                <name value="Rekvirenttype"/>
+                <id value="rekvirenttype2" />
+                <url value="http://hl7.no/fhir/ValueSet/rekvirenttype2" />
+                <version value="0.2"/>
+                <name value="Rekvirenttype2"/>
                 <useContext>
                     <coding>
                         <system value="urn:iso:std:iso:3166" />
